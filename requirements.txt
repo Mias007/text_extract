@@ -1,0 +1,9 @@
+Django==5.2.8
+pillow
+opencv-python
+pytesseract
+numpy
+requests
+sqlparse
+asgiref
+tzdata
